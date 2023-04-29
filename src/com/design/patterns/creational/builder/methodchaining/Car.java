@@ -1,4 +1,4 @@
-package com.design.patterns.builder.methodchaining;
+package com.design.patterns.creational.builder.methodchaining;
 
 public class Car {
 

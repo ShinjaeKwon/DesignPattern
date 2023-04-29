@@ -1,4 +1,4 @@
-package com.design.patterns.builder.multiplesteps;
+package com.design.patterns.creational.builder.multiplesteps;
 
 public class Director {
 
