@@ -1,4 +1,4 @@
-package com.design.patterns.behavior;
+package com.design.patterns.behavior.strategy;
 
 public class SumPrinter {
 
