@@ -31,5 +31,6 @@
 * 상태 패턴
 * 메멘토 패턴
 * 이터레이터 패턴
+* 옵저버 패턴
 
 [출처] https://www.youtube.com/@gisdeveloper
